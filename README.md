@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm V</h1>
 <h3 align="center">Passionate Programmer | CS Graduate</h3>
 
-- 🔭 I’m currently working on [Inventory Management System](https://github.com/v-ngyn/inventory_management)
-
 - 🌱 I’m currently learning **Next.js**
 
 <h3 align="left">Languages and Tools:</h3>
